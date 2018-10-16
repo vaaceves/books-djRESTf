@@ -1,0 +1,11 @@
+
+*.pyc
+__pycache__
+env
+media
+db.sqlite3
+.DS_Store
+**/migrations/
+Pipfile
+Pipfile.lock
+.idea
